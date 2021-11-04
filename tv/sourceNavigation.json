@@ -141,7 +141,7 @@
     {
       "name": "(新增)hy电影(选IJK解码)",
       "pic": "https://tva1.sinaimg.cn/large/a15b4afegy1fmvjekvk6yj21hc0u0h7x.jpg",
-      "webUrl": "https://gitee.com/freedTV/freed/raw/master/tv/电影轮播.txt",
+      "webUrl": "https://cdn.jsdelivr.net/gh/FreeDTV/FreeD@master/tv/%E7%94%B5%E5%BD%B1%E8%BD%AE%E6%92%AD.txt",
       "type": "txt",
       "subTitle": "",
       "click": false,
