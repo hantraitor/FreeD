@@ -56,13 +56,13 @@
     },
     {
       "name": "美国队长",
-      "url": "https://api.subaibai.com/m3/国外电影/美国队长.m3u8",
+      "url": "https://api.subaibai.com/m3/国外电影/美国队长1.m3u8",
       "pic": "https://liaoyantai.cn/wp-content/uploads/2020/05/5dfe86e2e414409a2378e526b2a02bae-270x380.jpg",
       "parse": false
     },
     {
       "name": "钢铁侠",
-      "url": "https://api.subaibai.com/m3/国外电影/钢铁侠.m3u8",
+      "url": "https://api.subaibai.com/m3/国外电影/钢铁侠1.m3u8",
       "pic": "https://liaoyantai.cn/wp-content/uploads/2020/05/4e03b3425a7036ae5209ffc0ea60c482-270x380.jpg",
       "parse": false
     },
